@@ -112,12 +112,12 @@ STATIC_URL = '/static/'
 ## NOTE: This is MIDDLEWARE and not MIDDLEWARE_CLASSES in Django 1.10+!
 # if not DEBUG:
 #     MIDDLEWARE_CLASSES = ['sslify.middleware.SSLifyMiddleware']+list(MIDDLEWARE_CLASSES)
-#     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+#     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https') 'https')
 #
 ALLOWED_HOSTS = (
     'localhost',
     '127.0.0.1',
-    ".pythonanywhere.com",# put your site here
+    ".pythonanywhere.com")# put your site here
 # )ALLOWED_HOSTS = (
 #     'localhost',
 #     '127.0.0.1',
