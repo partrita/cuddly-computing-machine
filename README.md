@@ -9,8 +9,7 @@
 
 ![](front.png)  
 
-This is [my demo](http://partrita.pythonanywhere.com)
-**Pythonanywhere** does **not** support **celery**. therefore, scripts will **not** executed.
+This is [my demo](http://partrita.pythonanywhere.com). **Pythonanywhere** does **not** support **celery**. therefore, scripts will **not** executed.
 
 ## Installation
 Read [this](http://wooey.readthedocs.io/en/latest/install.html) before you start.
