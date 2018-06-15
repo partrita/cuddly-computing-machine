@@ -41,3 +41,5 @@ else:
 PROJECT_NAME = "cuddlymachine"
 WOOEY_CELERY_APP_NAME = 'wooey.celery'
 WOOEY_CELERY_TASKS = 'wooey.tasks'
+WOOEY_SITE_NAME = "Biohacker"
+WOOEY_SITE_TAG = "A python scripts for biology"
