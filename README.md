@@ -7,9 +7,10 @@
 
 [Wooey](https://github.com/wooey/Wooey) is a easy way to get your scripts up on the web for routine data analysis, file processing, or anything else.  
 
-![](front.png)
-This is [my demo](http://partrita.pythonanywhere.com)
+![](front.png)  
 
+This is [my demo](http://partrita.pythonanywhere.com)
+**Pythonanywhere** does **not** support **celery**. therefore, scripts will **not** executed.
 
 ## Installation
 Read [this](http://wooey.readthedocs.io/en/latest/install.html) before you start.
